@@ -1,4 +1,4 @@
-# Global Secure
+# Password Secure
 
 ## Submission for MinneHack 2022
 
